@@ -4,14 +4,16 @@ using Microsoft.Xna.Framework.Input;
 
 namespace VUPdania
 {
-    public class Game1 : Game
+    public class GameWorld : Game
     {
-        private GraphicsDeviceManager _graphics;
-        private SpriteBatch _spriteBatch;
+        private GraphicsDeviceManager graphics;
+        private SpriteBatch spriteBatch;
 
-        public Game1()
+        private GameObject test;
+
+        public GameWorld()
         {
-            _graphics = new GraphicsDeviceManager(this);
+            graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
         }
@@ -25,9 +27,12 @@ namespace VUPdania
 
         protected override void LoadContent()
         {
-            _spriteBatch = new SpriteBatch(GraphicsDevice);
+            spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            SpriteLibary.Instance.LoadContent(Content);
+
+            test = new GameObject(new Vector2(20, 20));
         }
 
         protected override void Update(GameTime gameTime)
@@ -36,6 +41,8 @@ namespace VUPdania
                 Exit();
 
             // TODO: Add your update logic here
+            test.Update(gameTime);
+
 
             base.Update(gameTime);
         }
@@ -45,6 +52,9 @@ namespace VUPdania
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            spriteBatch.Begin();
+            test.Draw(spriteBatch);
+            spriteBatch.End();
 
             base.Draw(gameTime);
         }

@@ -7380,11 +7380,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anders\\source\\repos\\VUPdania\\VUPdania\\VUPdania.csproj",
+      "projectUniqueName": "C:\\Arbejde\\VUPdania\\VUPdania\\VUPdania\\VUPdania.csproj",
       "projectName": "VUPdania",
-      "projectPath": "C:\\Users\\Anders\\source\\repos\\VUPdania\\VUPdania\\VUPdania.csproj",
+      "projectPath": "C:\\Arbejde\\VUPdania\\VUPdania\\VUPdania\\VUPdania.csproj",
       "packagesPath": "C:\\Users\\Anders\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anders\\source\\repos\\VUPdania\\VUPdania\\obj\\",
+      "outputPath": "C:\\Arbejde\\VUPdania\\VUPdania\\VUPdania\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

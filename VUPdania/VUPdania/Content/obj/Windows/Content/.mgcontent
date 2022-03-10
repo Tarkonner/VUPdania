@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/arrow.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/arrow_circle.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/arrow_curve.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/arrow_head.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/barrel.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/barrels.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/barrels_stacked.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/bed.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/bed_luxurious.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/bridge.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/bridge_end.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/campfire.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/carpet.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/cart.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/chair.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Characters/green_character.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Characters/green_hand.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Characters/purple_character.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Characters/purple_hand.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Characters/red_character.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Characters/red_hand.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Characters/yellow_character.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Characters/yellow_hand.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/chest.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/coffin.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/crate.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/crate_small.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/door_closed.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/door_open.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/doorway.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/dragon.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_arrow.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_arrow_circle.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_arrow_curve.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_arrow_head.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_barrel.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_barrels.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_barrels_stacked.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_bed.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_bed_luxurious.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_campfire.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_cart.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_chair.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_chest.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_coffin.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_crate_small.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_door_closed.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_door_open.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_doorway.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_dragon.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_inner_diagonal.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_inner_long_diagonal.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_inner_long_round.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_inner_round.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_path.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_path_crossing.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_path_curve.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_planks.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_plants.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_puddle.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_table.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_track.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_track_cart.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_track_crossing.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_track_curve.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_trap.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_trapdoor_round.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_trapdoor_square.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_tree.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_corner.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_curve.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_damaged.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_demolished.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_diagonal.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_edge.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_half.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_secret.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/floor_wall_trap.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/grass.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/inner_diagonal.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/inner_long_diagonal.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/inner_long_round.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/inner_round.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/shield_curved.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/shield_straight.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_arrow.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_axe.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_axe_blades.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_axe_double.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_axe_large.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_bow.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_bow_arrow.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_dagger.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_hammer.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_longsword.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_pole.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_spear.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_staff.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/Items/weapon_sword.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/path.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/path_crossing.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/path_curve.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/planks.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/plants.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/puddle.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/stairs_down.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/stairs_down_detail.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/table.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/tile.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/tiles.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/tiles_center.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/tiles_corner.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/tiles_cracked.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/tiles_decorative.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/track.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/track_cart.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/track_crossing.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/track_curve.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/trap.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/trap_door.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/trapdoor_round.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/trapdoor_square.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/tree.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_corner.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_curve.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_damaged.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_demolished.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_diagonal.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_edge.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_half.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_secret.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wall_trap.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/water.png</File>
+    <File>C:/Arbejde/VUPdania/VUPdania/VUPdania/Content/wood.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
