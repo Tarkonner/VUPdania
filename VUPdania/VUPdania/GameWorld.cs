@@ -9,8 +9,6 @@ namespace VUPdania
         private GraphicsDeviceManager graphics;
         private SpriteBatch spriteBatch;
 
-        private GameObject test;
-
         public GameWorld()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -32,7 +30,7 @@ namespace VUPdania
             // TODO: use this.Content to load your game content here
             SpriteLibary.Instance.LoadContent(Content);
 
-            test = new GameObject(new Vector2(20, 20));
+            GameObjectsManager.Instantiate(new Grass(new Vector2(10, 20)));
         }
 
         protected override void Update(GameTime gameTime)
@@ -41,9 +39,13 @@ namespace VUPdania
                 Exit();
 
             // TODO: Add your update logic here
-            test.Update(gameTime);
+            for (int i = 0; i < GameObjectsManager.Instance.GameObjects.Count; i++)
+            {
+                GameObject currentTarget = GameObjectsManager.Instance.GameObjects[i];
+                currentTarget.Update(gameTime);
+            }
 
-
+            GameObjectsManager.UpdateLoop();
             base.Update(gameTime);
         }
 
@@ -53,7 +55,13 @@ namespace VUPdania
 
             // TODO: Add your drawing code here
             spriteBatch.Begin();
-            test.Draw(spriteBatch);
+
+            for (int i = 0; i < GameObjectsManager.Instance.GameObjects.Count; i++)
+            {
+                GameObject currentTarget = GameObjectsManager.Instance.GameObjects[i];
+                currentTarget.Draw(spriteBatch);
+            }
+
             spriteBatch.End();
 
             base.Draw(gameTime);

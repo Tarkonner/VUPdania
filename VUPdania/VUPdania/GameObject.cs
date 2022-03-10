@@ -6,7 +6,7 @@ using System.Text;
 
 namespace VUPdania
 {
-    class GameObject
+    abstract class GameObject
     {
         public Rectangle ractangle;
 
@@ -31,22 +31,32 @@ namespace VUPdania
 
         public GameObject(Vector2 position)
         {
-            this.position = position;
-
-            sprite = SpriteLibary.Instance.arrowHead;
-            ractangle = new Rectangle((int)position.X, (int)position.Y, sprite.Width, sprite.Height);
+            this.position = position;            
+            
         }
 
-        public void Update(GameTime gameTime)
+        public abstract void LoadContent();
+
+        public virtual void Update(GameTime gameTime)
         {
             float deltaTime = (float)gameTime.ElapsedGameTime.TotalSeconds;
-            position.X += deltaTime * 500;
-            ractangle.X = (int)position.X;
         }
 
-        public void Draw(SpriteBatch spriteBatch)
+        public virtual void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Draw(sprite, ractangle, null, Color.White, 0, Origin, spriteEffects, spriteLayer);
+        }
+
+        protected virtual void MoveObject(Vector2 amount)
+        {
+            position += amount;
+            ractangle.X = (int)position.X;
+            ractangle.Y = (int)position.Y;
+        }
+
+        public virtual void OnDestroy()
+        {
+
         }
     }
 }
