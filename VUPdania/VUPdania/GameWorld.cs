@@ -9,6 +9,9 @@ namespace VUPdania
         private GraphicsDeviceManager graphics;
         private SpriteBatch spriteBatch;
 
+        private Enemy testEnemy;
+        private Cell testCell;
+
         public GameWorld()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -20,6 +23,9 @@ namespace VUPdania
         {
             // TODO: Add your initialization logic here
 
+            
+
+
             base.Initialize();
         }
 
@@ -30,7 +36,9 @@ namespace VUPdania
             // TODO: use this.Content to load your game content here
             SpriteLibary.Instance.LoadContent(Content);
 
-            GameObjectsManager.Instantiate(new Grass(new Vector2(10, 20)));
+            testCell = (Cell)GameObjectsManager.Instantiate(new Cell(new Vector2(40, 20)));
+            testEnemy = (Enemy)GameObjectsManager.Instantiate(new Enemy(new Vector2(20, 20)));
+            GameObjectsManager.UpdateLoop();
         }
 
         protected override void Update(GameTime gameTime)
@@ -43,6 +51,13 @@ namespace VUPdania
             {
                 GameObject currentTarget = GameObjectsManager.Instance.GameObjects[i];
                 currentTarget.Update(gameTime);
+            }
+
+            if (Keyboard.GetState().IsKeyDown(Keys.S))
+                testEnemy.TakeDamage(10);
+            if (Keyboard.GetState().IsKeyDown(Keys.E))
+            {
+                testCell.Build(GameObjectsManager.Instantiate(new Obstacle(testCell.position)));
             }
 
             GameObjectsManager.UpdateLoop();

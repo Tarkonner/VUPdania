@@ -13,11 +13,13 @@ namespace VUPdania
 
         public Texture2D arrowHead;
         public Texture2D grass;
+        public Texture2D barrels;
 
         public void LoadContent(ContentManager content)
         {
             arrowHead = content.Load<Texture2D>("arrow_head");
             grass = content.Load<Texture2D>("grass");
+            barrels = content.Load<Texture2D>("barrels");
         }
     }
 }

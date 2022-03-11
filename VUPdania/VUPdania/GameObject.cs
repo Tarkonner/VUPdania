@@ -12,7 +12,7 @@ namespace VUPdania
 
         protected Texture2D sprite;
         protected float spriteLayer = 0;
-        protected Vector2 position;
+        public Vector2 position;
         protected SpriteEffects spriteEffects = new SpriteEffects();
 
         public Vector2 Origin
@@ -27,8 +27,7 @@ namespace VUPdania
             }
         }
 
-        public Vector2 Position { get { return position; } }
-
+        
         public GameObject(Vector2 position)
         {
             this.position = position;            
